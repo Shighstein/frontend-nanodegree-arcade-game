@@ -10,7 +10,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 
 * To Start, run index.html in a browser
 * To restart, refresh the page in the browser
-* To pause, hit <escape> key
+* To pause, hit `<escape>` key
 
 
 ## Playt the game
